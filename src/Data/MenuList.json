@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"name": "게시판",
+		"submenu": [
+			{
+				"id": 1.1,
+				"name": "공지사항",
+				"submenu": [],
+				"link": "/Notice"
+			},
+			{
+				"id": 1.2,
+				"name": "QnA",
+				"submenu": [],
+				"link": "/QnA"
+			}
+		],
+		"link": "/Home"
+	},
+	{
+		"id": 2,
+		"name": "메시지",
+		"submenu": [
+			{
+				"id": 2.1,
+				"name": "발송하기",
+				"submenu": [],
+				"link": "/Send"
+			}
+		],
+		"link": "/Message"
+	}
+]
